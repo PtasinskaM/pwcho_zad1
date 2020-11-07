@@ -1,6 +1,7 @@
 function getCityTime(city){
     time = document.getElementById('time');
     date = document.getElementById('date');
+    //testowa zmiana
 
     var d = new Date();
     var timezone = d.getTimezoneOffset();
